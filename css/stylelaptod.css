@@ -1,0 +1,21 @@
+.main-container{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+.main-container-imagen{
+    margin-top: 20rem;
+}
+.main-info{
+    margin-top: 20rem;
+}
+.main-info .info1{
+    width: 80%;
+}
+.main-info .info2{
+    width: 80%;
+    line-height: 3.6rem;
+}
+.main-info .info2 .text2{
+    width: 28rem;
+    line-height: 3.6rem;
+}

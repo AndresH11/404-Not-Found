@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+
+.main-404{
+    margin-top: 2rem;
+    margin-left: 2.5rem;
+    font-weight: bold;
+    font-size: 2.4rem;
+    line-height: 2.5rem;
+    min-width: 29rem;
+    color: #333333;
+    font-family: 'Inconsolata', monospace;
+}
+.main-container-imagen{
+    width: 90%;
+    margin: 0 auto;
+    height: auto;
+    margin-top: 6.4rem;
+    margin-bottom: 7.7rem;
+    min-width: 29rem;
+    max-width: 53.9rem;
+}
+.main-container-imagen img{
+    width: 100%;
+}
+.main-info{
+    width: 100%;
+}
+.main-info .info1{
+    width: 90%;
+    margin: 0 auto;
+    max-width: 58.6rem;
+    min-width: 29rem;
+}
+.main-info .text1{
+    font-size: 3.89rem;
+    font-weight: bold;
+    line-height: 7.1rem;
+    color: #333333;
+    letter-spacing: -0.035rem;
+    font-family: 'Space Mono', monospace;
+    margin-bottom: 3rem;
+}
+.main-info .info2{
+    width: 90%;
+    margin: 0 auto;
+    min-width: 29rem;
+}
+.main-info .text2{
+    margin-bottom: 6.6rem;
+    color: #4F4F4F;
+    font-size: 1.7rem;
+    line-height: 2.6rem;
+    font-family: 'Space Mono', monospace;
+    letter-spacing: -0.035rem;
+}
+.main-info .boton{
+    width: 21.6rem;
+    height: 6.8rem;
+    margin-left: 0.5rem;
+    margin-bottom: 11.4rem;
+    background-color: #333333;
+    color: #FFFFFF;
+    font-size: 1.4rem;
+    font-weight: bold;
+    line-height: 2.1rem;
+    font-family: 'Space Mono', monospace;
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.main-container-footer{
+    width: 90%;
+    margin: 0 auto;
+    max-width: 49.8rem;
+}
+.main-footer-p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 1.7rem;
+    margin-bottom: 2.4rem;
+    color: #BDBDBD;
+}
